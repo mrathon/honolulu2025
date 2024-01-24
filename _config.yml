@@ -10,10 +10,10 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "MRathon 2023"
-keywords:    "MRI, hackathon, 2023, toronto, mrathon"
+title:       "MRathon 2024"
+keywords:    "MRI, hackathon, 2024, singapore, mrathon"
 description: "MRI hackathon."
-source_link: "https://github.com/mrathon/toronto2023"
+source_link: "https://github.com/mrathon/singapore2024"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key:
