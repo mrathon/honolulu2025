@@ -41,6 +41,11 @@ speakers:
     twitter: #
     linkedin: #
     researchgate: #
+  - name: "Nadia Blostein"
+    image:  NadiaBlostein.jpg
+    affiliation: École Polytechnique de Montréal
+    twitter: #
+    linkedin: #
   # - name: "Rasim Boyacioglu"
   #   image:  rb.jpg
   #   affiliation: Case Western Reserve University
