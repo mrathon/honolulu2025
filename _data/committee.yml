@@ -24,11 +24,11 @@ people:
     linkedin: #
     researchgate: #
 speakers:
-  - name: "Adrienne Campbell-Washburn"
-    image:  AdrienneCampbellWashburn.jpg
-    affiliation: National Institutes of Health
-    twitter: #
-    linkedin: #
+  # - name: "Adrienne Campbell-Washburn"
+  #   image:  AdrienneCampbellWashburn.jpg
+  #   affiliation: National Institutes of Health
+  #   twitter: #
+  #   linkedin: #
   - name: "Jon-Fredrik Nielsen"
     image:  jfn.jpg
     affiliation: University of Michigan
@@ -41,45 +41,45 @@ speakers:
     twitter: #
     linkedin: #
     researchgate: #
-  - name: "Rasim Boyacioglu"
-    image:  rb.jpg
-    affiliation: Case Western Reserve University
-    twitter: #
-    linkedin: #
-  - name: "Georg Oeltzschner"
-    image:  go.jpg
-    affiliation: Johns Hopkins Medicine
-    twitter: #
-    linkedin: #
-  - name: "Krishna Nayak"
-    image:  kn.jpg
-    affiliation: USC Viterbi School of Engineering
-    twitter: #
-    linkedin: #
-  - name: "Matthias Günther"
-    image:  mgu.jpg
-    affiliation: Fraunhofer Institute for Digital Medicine
-    twitter: #
-    linkedin: #    
-  - name: "Rita G. Nunes"
-    image:  rn.jpg
-    affiliation: Universidade de Lisboa
-    twitter: #
-    linkedin: #  
-  - name: "E. Mark Haacke"
-    image:  mh.png
-    affiliation: SpinTech MRI
-    twitter: #
-    linkedin: #
-  - name: "Ahsan Javed"
-    image:  aj.jpeg
-    affiliation: National Institutes of Health
-    twitter: #
-    linkedin: #
-  - name: "Andreia S.O. Gaspar"
-    image:  asog.jpg
-    affiliation: Universidade de Lisboa
-    twitter: #
-    linkedin: #
+  # - name: "Rasim Boyacioglu"
+  #   image:  rb.jpg
+  #   affiliation: Case Western Reserve University
+  #   twitter: #
+  #   linkedin: #
+  # - name: "Georg Oeltzschner"
+  #   image:  go.jpg
+  #   affiliation: Johns Hopkins Medicine
+  #   twitter: #
+  #   linkedin: #
+  # - name: "Krishna Nayak"
+  #   image:  kn.jpg
+  #   affiliation: USC Viterbi School of Engineering
+  #   twitter: #
+  #   linkedin: #
+  # - name: "Matthias Günther"
+  #   image:  mgu.jpg
+  #   affiliation: Fraunhofer Institute for Digital Medicine
+  #   twitter: #
+  #   linkedin: #    
+  # - name: "Rita G. Nunes"
+  #   image:  rn.jpg
+  #   affiliation: Universidade de Lisboa
+  #   twitter: #
+  #   linkedin: #  
+  # - name: "E. Mark Haacke"
+  #   image:  mh.png
+  #   affiliation: SpinTech MRI
+  #   twitter: #
+  #   linkedin: #
+  # - name: "Ahsan Javed"
+  #   image:  aj.jpeg
+  #   affiliation: National Institutes of Health
+  #   twitter: #
+  #   linkedin: #
+  # - name: "Andreia S.O. Gaspar"
+  #   image:  asog.jpg
+  #   affiliation: Universidade de Lisboa
+  #   twitter: #
+  #   linkedin: #
 
 
