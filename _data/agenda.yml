@@ -1,22 +1,17 @@
 saturday1:
-  - title: "Hangover Brunch"
-    time:  11h-12h
+  - title: "Breakfast"
+    time:  9h-10h
     place: Dyson’s Lab @ SUTD
     image: breakfast.png
-    text:  Take a late breakfast, don't be hasty, <br> Let your body recover from the MRathon-Highlights party!
-  - title: "Talks: Part 1"
-    time: 12h-13:30h
-    place:  Dyson’s Lab @ SUTD
-    image: welcome.png
-    text:  Let's begin the day with champions of open source,<br> Get inspired by their talks and let enthusiasm run its course.
+    text:  Take a late breakfast, don't be hasty, <br> Get ready for a hacking party!
   - title: "Pitch session"
-    time:  13:30h-14h
+    time:  10h-12h
     place:  Dyson’s Lab @ SUTD
     image: present.png
     typeform: https://github.com/mrathon/idea-pitches/issues/new/choose
     text: Pitch your MRI project with passion and might, <br> Attract people with your vision, make it shine bright. <br> Encourage a code sprint, let creativity appeal, <br> Bring your project to life, make it real.
   - title: "Hacking"
-    time:  14h-16h
+    time:  13h-16h
     place:  Dyson’s Lab @ SUTD
     image: hack.png
     text: If you've found your project or formed a team, <br> Let the code fill your screen, like a dev's dream. <br> Time is short, but your skills are fit, <br> You can do it, just git add & commit.
@@ -27,13 +22,8 @@ monday:
     place:  Dyson’s Lab @ SUTD
     image: breakfast2.png
     text:  This is the second breakfast, the last hackathon day, <br> You've achieved a ton, don't let it sway! <br> Feed your brain for one last round, <br> Caffeinate yourself to stand your ground!
-  - title: "Talks: Part 2"
-    time:  10h-12h
-    place:  Dyson’s Lab @ SUTD
-    image: catch.png
-    text:  It's time to hear from the experts and learn, <br> The benefits of open-source, it's your turn, <br> To motivate yourself to go that extra mile, <br> And get the recognition you deserve with style.
   - title: "Hack-eat-hack"
-    time:  12h-16h
+    time:  11h-16h
     place:  Dyson’s Lab @ SUTD
     image: hack2.png
     text: Let keyboards click like a hailstorm, <br> As headphones blasting your favorite song, <br> Git push in a rush what could go wrong? <br> You're almost there, stay strong!
