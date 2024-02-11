@@ -5,9 +5,9 @@ people:
     twitter: #
     linkedin: #
     researchgate: #
-  - name: "Nadia Blostein"
-    image:  NadiaBlostein.jpg
-    affiliation: École Polytechnique de Montréal
+  - name: "Huang Shaoying"
+    image:  shao.png
+    affiliation: SUTD Singapore
     twitter: #
     linkedin: #
     researchgate: #
@@ -29,12 +29,6 @@ speakers:
   #   affiliation: National Institutes of Health
   #   twitter: #
   #   linkedin: #
-  - name: "Jon-Fredrik Nielsen"
-    image:  jfn.jpg
-    affiliation: University of Michigan
-    twitter: #
-    linkedin: #
-    researchgate: #
   - name: "Maxim Zaitsev"
     image:  mz.jpg
     affiliation: University of Freiburg
@@ -44,6 +38,51 @@ speakers:
   - name: "Nadia Blostein"
     image:  NadiaBlostein.jpg
     affiliation: École Polytechnique de Montréal
+    twitter: #
+    linkedin: #
+  - name: "Sophie Schauman"
+    image:  sophie.png
+    affiliation: Karolinska Institutet
+    twitter: #
+    linkedin: #
+  - name: "Rita G. Nunes"
+    image:  rn.jpg
+    affiliation: Universidade de Lisboa
+    twitter: #
+    linkedin: #
+  - name: "Tiago Teixeira"
+    image:  tiago.jpg
+    affiliation: Universidade de Lisboa
+    twitter: #
+    linkedin: #
+  - name: "Krishna Nayak"
+    image:  kn.jpg
+    affiliation: USC Viterbi School of Engineering
+    twitter: #
+    linkedin: #
+  - name: "Jon Tamir"
+    image:  tamirr.jpeg
+    affiliation: UT Austin
+    twitter: #
+    linkedin: #
+  - name: "Berkin Bilgic"
+    image:  berkin.jpeg
+    affiliation: MGH Harvard
+    twitter: #
+    linkedin: #
+  - name: "Yogesh Rathi"
+    image:  yogesh.jpeg
+    affiliation: MGH Harvard
+    twitter: #
+    linkedin: #
+  - name: "Borjan Gagoski"
+    image:  borjan.jpeg
+    affiliation: MGH Harvard
+    twitter: #
+    linkedin: #
+  - name: "Shohei Fujita"
+    image:  shohei.jpeg
+    affiliation: MGH Harvard
     twitter: #
     linkedin: #
   # - name: "Rasim Boyacioglu"
@@ -66,11 +105,7 @@ speakers:
   #   affiliation: Fraunhofer Institute for Digital Medicine
   #   twitter: #
   #   linkedin: #    
-  # - name: "Rita G. Nunes"
-  #   image:  rn.jpg
-  #   affiliation: Universidade de Lisboa
-  #   twitter: #
-  #   linkedin: #  
+
   # - name: "E. Mark Haacke"
   #   image:  mh.png
   #   affiliation: SpinTech MRI
