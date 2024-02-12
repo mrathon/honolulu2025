@@ -8,9 +8,9 @@ people:
   - name: "Huang Shaoying"
     image:  shao.png
     affiliation: SUTD Singapore
-    twitter: #
-    linkedin: #
-    researchgate: #
+  - name: "Le Thu Thao"
+    image:  ltt.jpeg
+    affiliation: SUTD Singapore
   - name: "Mathieu Boudreau"
     image:  MathieuBoudreau.jpg
     affiliation: École Polytechnique de Montréal
@@ -69,11 +69,11 @@ speakers:
   #   affiliation: USC Viterbi School of Engineering
   #   twitter: #
   #   linkedin: #
-  - name: "Jon Tamir"
-    image:  tamirr.jpeg
-    affiliation: UT Austin
-    twitter: #
-    linkedin: #
+  # - name: "Jon Tamir"
+  #   image:  tamirr.jpeg
+  #   affiliation: UT Austin
+  #   twitter: #
+  #   linkedin: #
   # - name: "Berkin Bilgic"
   #   image:  berkin.jpeg
   #   affiliation: MGH Harvard
