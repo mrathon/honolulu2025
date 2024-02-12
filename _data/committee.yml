@@ -40,6 +40,15 @@ speakers:
     affiliation: École Polytechnique de Montréal
     twitter: #
     linkedin: #
+  - name: "Nikola Stikov"
+    image:  NikolaStikov.jpg
+    affiliation: École Polytechnique de Montréal
+  - name: "Mathieu Boudreau"
+    image:  MathieuBoudreau.jpg
+    affiliation: École Polytechnique de Montréal
+  - name: "Agah Karakuzu"
+    image:  AgahKarakuzu.jpg
+    affiliation: École Polytechnique de Montréal
   - name: "Sophie Schauman"
     image:  sophie.png
     affiliation: Karolinska Institutet
@@ -55,36 +64,36 @@ speakers:
     affiliation: Universidade de Lisboa
     twitter: #
     linkedin: #
-  - name: "Krishna Nayak"
-    image:  kn.jpg
-    affiliation: USC Viterbi School of Engineering
-    twitter: #
-    linkedin: #
+  # - name: "Krishna Nayak"
+  #   image:  kn.jpg
+  #   affiliation: USC Viterbi School of Engineering
+  #   twitter: #
+  #   linkedin: #
   - name: "Jon Tamir"
     image:  tamirr.jpeg
     affiliation: UT Austin
     twitter: #
     linkedin: #
-  - name: "Berkin Bilgic"
-    image:  berkin.jpeg
-    affiliation: MGH Harvard
-    twitter: #
-    linkedin: #
-  - name: "Yogesh Rathi"
-    image:  yogesh.jpeg
-    affiliation: MGH Harvard
-    twitter: #
-    linkedin: #
-  - name: "Borjan Gagoski"
-    image:  borjan.jpeg
-    affiliation: MGH Harvard
-    twitter: #
-    linkedin: #
-  - name: "Shohei Fujita"
-    image:  shohei.jpeg
-    affiliation: MGH Harvard
-    twitter: #
-    linkedin: #
+  # - name: "Berkin Bilgic"
+  #   image:  berkin.jpeg
+  #   affiliation: MGH Harvard
+  #   twitter: #
+  #   linkedin: #
+  # - name: "Yogesh Rathi"
+  #   image:  yogesh.jpeg
+  #   affiliation: MGH Harvard
+  #   twitter: #
+  #   linkedin: #
+  # - name: "Borjan Gagoski"
+  #   image:  borjan.jpeg
+  #   affiliation: MGH Harvard
+  #   twitter: #
+  #   linkedin: #
+  # - name: "Shohei Fujita"
+  #   image:  shohei.jpeg
+  #   affiliation: MGH Harvard
+  #   twitter: #
+  #   linkedin: #
   # - name: "Rasim Boyacioglu"
   #   image:  rb.jpg
   #   affiliation: Case Western Reserve University
