@@ -14,8 +14,9 @@ people:
   - name: "Mathieu Boudreau"
     image:  MathieuBoudreau.jpg
     affiliation: École Polytechnique de Montréal
-    twitter: #
-    linkedin: #
+  - name: "Jane Abdo"
+    image:  jabdo.jpg
+    affiliation: École Polytechnique de Montréal
     researchgate: #
   - name: "Nikola Stikov"
     image:  NikolaStikov.jpg
@@ -62,6 +63,11 @@ speakers:
   - name: "Tiago Fernandes"
     image:  tiagoo.jpg
     affiliation: Universidade de Lisboa
+    twitter: #
+    linkedin: #
+  - name: "Peder Larson"
+    image:  larson.png
+    affiliation: UCSF
     twitter: #
     linkedin: #
   # - name: "Krishna Nayak"
