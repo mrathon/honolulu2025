@@ -70,6 +70,11 @@ speakers:
     affiliation: UCSF
     twitter: #
     linkedin: #
+  - name: "Michael Lustig"
+    image:  lustig.png
+    affiliation: UC Berkeley
+    twitter: #
+    linkedin: #    
   # - name: "Krishna Nayak"
   #   image:  kn.jpg
   #   affiliation: USC Viterbi School of Engineering
