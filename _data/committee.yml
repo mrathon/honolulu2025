@@ -41,6 +41,11 @@ speakers:
     affiliation: École Polytechnique de Montréal
     twitter: #
     linkedin: #
+  - name: "Michael Lustig"
+    image:  lustig.jpg
+    affiliation: UC Berkeley
+    twitter: #
+    linkedin: #    
   - name: "Nikola Stikov"
     image:  NikolaStikov.jpg
     affiliation: École Polytechnique de Montréal
@@ -70,11 +75,6 @@ speakers:
     affiliation: UCSF
     twitter: #
     linkedin: #
-  - name: "Michael Lustig"
-    image:  lustig.png
-    affiliation: UC Berkeley
-    twitter: #
-    linkedin: #    
   # - name: "Krishna Nayak"
   #   image:  kn.jpg
   #   affiliation: USC Viterbi School of Engineering
