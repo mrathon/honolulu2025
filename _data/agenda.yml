@@ -34,8 +34,8 @@ monday:
   - title: "Snack"
     time:  15h-15h30
     place: Jackie Chan House @ SUTD
-    image:  lunch2.png
-    text: Let keyboards click like a hailstorm, <br> As headphones blasting your favorite song, <br> Git push in a rush what could go wrong? <br> You're almost there, stay strong! 
+    image:  breakfast2.png
+    text: Grab a bite, take a seat, <br> A little rest for minds so fleet, <br> Sweet or salty, treats to eat, <br> Fuel your brain, feel the beat!
   - title: "Hacking"
     time:  15h30-18h
     place: Jackie Chan House @ SUTD
@@ -44,5 +44,5 @@ monday:
   - title: "Catch session"
     time:  18h
     place: Jackie Chan House @ SUTD
-    image:  final.png
+    image:  catch.png
     text: Somebody told me your code has a back-end <br> And even a front-end <br> That you coded in MRathon this year <br> It's not confidential, you've got potential <br> So show us what you've done!
