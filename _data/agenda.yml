@@ -1,59 +1,47 @@
 saturday1:
-  - title: "Breakfast"
-    time:  9h-10h
-    place: Dyson’s Lab @ SUTD
-    image: breakfast.png
-    text:  Take a late breakfast, don't be hasty, <br> Get ready for a hacking party!
-  - title: "Pitch session"
-    time:  10h-12h
-    place:  Dyson’s Lab @ SUTD
-    image: present.png
-    typeform: https://github.com/mrathon/idea-pitches/issues/new/choose
-    text: Pitch your MRI project with passion and might, <br> Attract people with your vision, make it shine bright. <br> Encourage a code sprint, let creativity appeal, <br> Bring your project to life, make it real.
   - title: "Hacking"
     time:  13h-16h
-    place:  Dyson’s Lab @ SUTD
-    image: hack.png
-    text: If you've found your project or formed a team, <br> Let the code fill your screen, like a dev's dream. <br> Time is short, but your skills are fit, <br> You can do it, just git add & commit.
-
+    place: Jackie Chan House @ SUTD
+    image: social.png
+    text: Before the code, let's all unwind, <br> Find some friends, leave stress behind, <br> With snacks and chats, what will we find? <br> Connections made, perfectly timed!
 monday:
   - title: "Breakfast"
     time:  9h-10h
-    place:  Dyson’s Lab @ SUTD
+    place: Jackie Chan House @ SUTD
     image: breakfast2.png
     text:  Take a late breakfast, don't be hasty, <br> Get ready for a hacking party!
   - title: "Pitch session"
     time:  9h-10h
-    place:  Dyson’s Lab @ SUTD
+    place: Jackie Chan House @ SUTD
     image: hack2.png
     text: Pitch your MRI project with passion and might, <br> Attract people with your vision, make it shine bright. <br> Encourage a code sprint, let creativity appeal, <br> Bring your project to life, make it real.
   - title: "Hacking"
     time:  10h-12h
-    place:  Dyson’s Lab @ SUTD
+    place: Jackie Chan House @ SUTD
     image:  hack.png
     text: If you've found your project or formed a team, <br> Let the code fill your screen, like a dev's dream. <br> Time is short, but your skills are fit, <br> You can do it, just git add & commit.
   - title: "Lunch"
     time:  12h-13h
-    place:  Dyson’s Lab @ SUTD
+    place: Jackie Chan House @ SUTD
     image: lunch2.png
     text: Time to recharge! <br> Feed your brain and discuss what you found, <br> Caffeinate yourself to stand your ground!
   - title: "Hacking"
     time:  13h-15h
-    place:  Dyson’s Lab @ SUTD
+    place: Jackie Chan House @ SUTD
     image:  hack.png
     text: Let keyboards click like a hailstorm, <br> As headphones blasting your favorite song, <br> Git push in a rush what could go wrong? <br> You're almost there, stay strong!
  - title: "Snack"
     time:  15h-15h30
-    place:  Dyson’s Lab @ SUTD
+    place: Jackie Chan House @ SUTD
     image:  lunch2.png
     text: Let keyboards click like a hailstorm, <br> As headphones blasting your favorite song, <br> Git push in a rush what could go wrong? <br> You're almost there, stay strong! 
   - title: "Hacking"
     time:  15h30-18h
-    place:  Dyson’s Lab @ SUTD
+    place: Jackie Chan House @ SUTD
     image:  hack.png
     text: In a room where ideas ignite, <br> Where coders code deep into the night, <br> Merging branches left and right, <br> Victory's in sight, hold on tight!
   - title: "Catch session"
     time:  18h
-    place: TBD
+    place: Jackie Chan House @ SUTD
     image:  final.png
     text: Somebody told me your code has a back-end <br> And even a front-end <br> That you coded in MRathon this year <br> It's not confidential, you've got potential <br> So show us what you've done!
