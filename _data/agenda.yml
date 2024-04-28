@@ -14,12 +14,12 @@ monday:
   - title: "Pitch session"
     time:  9h-10h
     place: Jackie Chan House @ SUTD
-    image: hack2.png
+    image: present.png
     text: Pitch your MRI project with passion and might, <br> Attract people with your vision, make it shine bright. <br> Encourage a code sprint, let creativity appeal, <br> Bring your project to life, make it real.
   - title: "Hacking"
     time:  10h-12h
     place: Jackie Chan House @ SUTD
-    image:  hack.png
+    image:  hack2.png
     text: If you've found your project or formed a team, <br> Let the code fill your screen, like a dev's dream. <br> Time is short, but your skills are fit, <br> You can do it, just git add & commit.
   - title: "Lunch"
     time:  12h-13h
@@ -29,7 +29,7 @@ monday:
   - title: "Hacking"
     time:  13h-15h
     place: Jackie Chan House @ SUTD
-    image:  hack.png
+    image:  hack2.png
     text: Let keyboards click like a hailstorm, <br> As headphones blasting your favorite song, <br> Git push in a rush what could go wrong? <br> You're almost there, stay strong!
   - title: "Snack"
     time:  15h-15h30
@@ -39,7 +39,7 @@ monday:
   - title: "Hacking"
     time:  15h30-18h
     place: Jackie Chan House @ SUTD
-    image:  hack.png
+    image:  hack2.png
     text: In a room where ideas ignite, <br> Where coders code deep into the night, <br> Merging branches left and right, <br> Victory's in sight, hold on tight!
   - title: "Catch session"
     time:  18h
