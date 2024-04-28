@@ -2,7 +2,7 @@ saturday1:
   - title: "Social"
     time:  19h
     place: Jackie Chan House @ SUTD
-    image: social.png
+    image: social_day1.png
     text: Before the code, let's all unwind, <br> Find some friends, leave stress behind, <br> With snacks and chats, what will we find? <br> Connections made, perfectly timed!
 
 monday:
@@ -14,7 +14,7 @@ monday:
   - title: "Pitch session"
     time:  9h-10h
     place: Jackie Chan House @ SUTD
-    image: present.png
+    image: pitch2.png
     text: Pitch your MRI project with passion and might, <br> Attract people with your vision, make it shine bright. <br> Encourage a code sprint, let creativity appeal, <br> Bring your project to life, make it real.
   - title: "Hacking"
     time:  10h-12h
