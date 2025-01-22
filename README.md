@@ -1,3 +1,5 @@
-# Website for MRathon 2024
+# Website for MRathon 2025
 
-Trying to build pages with new GH actions.
+Honolulu, Hawaii, USA
+
+2025 05 08-09
