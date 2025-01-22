@@ -9,19 +9,23 @@ titleclr: '#428bca'
 
 <center><img src="https://github.com/mrathon/honolulu2025/blob/master/img/mrathon_new.png?raw=true" style="height:300px;"></center>
 
-<p style ="text-align: center; font-weight: bold; font-size:24px;"> We organized MRathon 2025 in collaboration with the <a href="https://sites.google.com/view/mrshackathon2024/" style="color:blue;"> MRS Hackathon </a>, creating an excellent atmosphere to enable interaction between different sub-communities of ISMRM.</p>
+<p style ="text-align: center; font-weight: bold; font-size:24px;"> MRS X MRathon, organized in collaboration with the <a href="https://sites.google.com/view/mrshackathon2024/" style="color:blue;"> MRS Hackathon </a>, is a great opportunity to sharpen your coding skills for taking your MRI research to the next level.</p>
 
-<p style ="text-align: center; font-weight: bold; font-size:24px;"> That being said, both events will have their own hackathon tracks. For MRathon 2025, this year's theme will be on creating next-generation publications for cutting-edge MRI research. For the MRS Hackathon, please see <a href="https://sites.google.com/view/mrshackathon2024/" style="color:blue;"> here </a>.</p>
+<center><i class="fa fa-terminal fa-stack-2x fa-inverse"></i></center>
 
-<h3 style ="text-align: center;"> For MRathon 2025, this year's theme will be on creating next-generation publications for cutting-edge MRI research.</h3> 
+<p style ="text-align: center; font-weight: bold; font-size:24px;"> During the event, MRathon and MRS Hackathon will have separate hackathon sprints. You are welcome to participate in both events (⚛ quantum state hacking rocks ⚛) and get inspired by projects from both communities!</p>
 
-<p style ="text-align: center;"> For the MRS Hackathon, please see <a href="https://sites.google.com/view/mrshackathon2024/" style="color:blue;"> here </a>.</p>
+<center><i class="fa-solid fa-palette fa-stack-2x fa-inverse"></i></center>
+
+<h3 style ="text-align: center;"> The theme for MRathon 2025 will be creating next-generation publications for cutting-edge MRI research.</h3> 
+
+<p style ="text-align: center;"> For details regarding the MRS Hackathon, please see <a href="https://sites.google.com/view/mrshackathon2024/" style="color:blue;"> here </a>.</p>
 
 <center>
 <p style ="text-align: center;  font-size:20px;">MRathon aims to bring together experts to share knowledge and collaborate on new solutions for ensuring transparency and accessibility in MRI research.</p>
  </center>
 <hr>
- <h3>A stellar list of MRI experts</h3>
+ <h3>A stellar list of MRI experts (displaying 2024, to be updated)</h3>
 
  <p style ="text-align: center;  font-size:20px;"> Experts who specialize in implementing cutting-edge research into open-source projects will be present during the hackathon to offer valuable insights on the latest developments in the vendor-neutral ecosystem. </p>
 
