@@ -7,11 +7,13 @@ iconclr: '#428bca'
 titleclr: '#428bca'
 ---
 
-# A hackathon for increasing MRI accessibility
+# Surfing the waves of reproducible MRI research
 
-### 2-3 May 2024
+### 8-9 May 2025
 
-<p style ="text-align: center; font-weight: bold; font-size:24px;"> We organized MRathon 2024 in collaboration with the <a href="https://ezymri-nerdfest.sciencesconf.org/" style="color:blue;"> ezyMRI NerdFest </a>, focusing on the increasing the accessibility of MRI through open-source and vendor-neutral pulse sequence programming.</p>
+<p style ="text-align: center; font-weight: bold; font-size:24px;"> We organized MRathon 2025 in collaboration with the <a href="https://sites.google.com/view/mrshackathon2024/" style="color:blue;"> MRS Hackathon </a>, creating an excellent atmosphere to enable interaction between different sub-communities of ISMRM.</p>
+
+<p style ="text-align: center; font-weight: bold; font-size:24px;"> That being said, both events will have their own unique focus. For MRathon 2025, this year's theme will be on creating next-generation publications for cutting-edge MRI research. For the MRS Hackathon, please see <a href="https://sites.google.com/view/mrshackathon2024/" style="color:blue;"> here </a>.</p>
 
 <center>
 <p style ="text-align: center;  font-size:20px;">MRathon aims to bring together experts to share knowledge and collaborate on new solutions for ensuring transparency and accessibility in MRI research.</p>
