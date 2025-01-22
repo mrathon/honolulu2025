@@ -7,13 +7,15 @@ iconclr: '#428bca'
 titleclr: '#428bca'
 ---
 
-# Surfing the waves of reproducible MRI research
-
-### 8-9 May 2025
+<center><img src="https://github.com/mrathon/honolulu2025/blob/master/img/mrathon_new.png?raw=true" style="height:300px;"></center>
 
 <p style ="text-align: center; font-weight: bold; font-size:24px;"> We organized MRathon 2025 in collaboration with the <a href="https://sites.google.com/view/mrshackathon2024/" style="color:blue;"> MRS Hackathon </a>, creating an excellent atmosphere to enable interaction between different sub-communities of ISMRM.</p>
 
-<p style ="text-align: center; font-weight: bold; font-size:24px;"> That being said, both events will have their own unique focus. For MRathon 2025, this year's theme will be on creating next-generation publications for cutting-edge MRI research. For the MRS Hackathon, please see <a href="https://sites.google.com/view/mrshackathon2024/" style="color:blue;"> here </a>.</p>
+<p style ="text-align: center; font-weight: bold; font-size:24px;"> That being said, both events will have their own hackathon tracks. For MRathon 2025, this year's theme will be on creating next-generation publications for cutting-edge MRI research. For the MRS Hackathon, please see <a href="https://sites.google.com/view/mrshackathon2024/" style="color:blue;"> here </a>.</p>
+
+<h3 style ="text-align: center;"> For MRathon 2025, this year's theme will be on creating next-generation publications for cutting-edge MRI research.</h3> 
+
+<p style ="text-align: center;"> For the MRS Hackathon, please see <a href="https://sites.google.com/view/mrshackathon2024/" style="color:blue;"> here </a>.</p>
 
 <center>
 <p style ="text-align: center;  font-size:20px;">MRathon aims to bring together experts to share knowledge and collaborate on new solutions for ensuring transparency and accessibility in MRI research.</p>
