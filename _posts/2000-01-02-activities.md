@@ -9,17 +9,21 @@ titleclr: '#428bca'
 
 <center><img src="https://github.com/mrathon/honolulu2025/blob/master/img/mrathon_new.png?raw=true" style="height:300px;"></center>
 
+<hr>
 <p style ="text-align: center; font-weight: bold; font-size:24px;"> MRS X MRathon, organized in collaboration with the <a href="https://sites.google.com/view/mrshackathon2024/" style="color:blue;"> MRS Hackathon </a>, is a great opportunity to sharpen your coding skills for taking your MRI research to the next level.</p>
+<hr>
 
-<center><i class="fa fa-terminal fa-stack-2x fa-inverse"></i></center>
+<br>
+<center><i class="fa fa-terminal fa-3x"></i></center>
 
-<p style ="text-align: center; font-weight: bold; font-size:24px;"> During the event, MRathon and MRS Hackathon will have separate hackathon sprints. You are welcome to participate in both events (⚛ quantum state hacking rocks ⚛) and get inspired by projects from both communities!</p>
+<p style ="text-align: center; font-weight: bold; font-size:24px;"> During the event, <span style="color:#63c4ca;">MRathon</span> and <span style="color:#f26c22;">MRS Hackathon</span> will have separate hackathon sprints. You are welcome to participate in both events and get inspired by projects from both communities!</p>
 
-<center><i class="fa-solid fa-palette fa-stack-2x fa-inverse"></i></center>
+<br>
+<center><i class="fa-solid fa-palette fa-3x"></i></center>
 
-<h3 style ="text-align: center;"> The theme for MRathon 2025 will be creating next-generation publications for cutting-edge MRI research.</h3> 
+<h3 style ="text-align: center;"> The theme for <span style="color:#63c4ca;">MRathon</span> will be creating next-generation publications for cutting-edge MRI research.</h3> 
 
-<p style ="text-align: center;"> For details regarding the MRS Hackathon, please see <a href="https://sites.google.com/view/mrshackathon2024/" style="color:blue;"> here </a>.</p>
+<p style ="text-align: center;"> For details regarding the <span style="color:#f26c22;">MRS Hackathon</span>, please see <a href="https://sites.google.com/view/mrshackathon2024/" style="color:blue;"> here </a>.</p>
 
 <center>
 <p style ="text-align: center;  font-size:20px;">MRathon aims to bring together experts to share knowledge and collaborate on new solutions for ensuring transparency and accessibility in MRI research.</p>
