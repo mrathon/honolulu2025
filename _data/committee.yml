@@ -5,18 +5,18 @@ people:
     twitter: #
     linkedin: #
     researchgate: #
-  - name: "Huang Shaoying"
-    image:  shao.png
-    affiliation: SUTD Singapore
-  - name: "Le Thu Thao"
-    image:  ltt.jpeg
-    affiliation: National Heart Centre Singapore
+  # - name: "Huang Shaoying"
+  #   image:  shao.png
+  #   affiliation: SUTD Singapore
+  # - name: "Le Thu Thao"
+  #   image:  ltt.jpeg
+  #   affiliation: National Heart Centre Singapore
   - name: "Mathieu Boudreau"
     image:  MathieuBoudreau.jpg
     affiliation: École Polytechnique de Montréal
-  - name: "Jane Abdo"
-    image:  jabdo.jpg
-    affiliation: École Polytechnique de Montréal
+  # - name: "Jane Abdo"
+  #   image:  jabdo.jpg
+  #   affiliation: École Polytechnique de Montréal
     researchgate: #
   - name: "Nikola Stikov"
     image:  NikolaStikov.jpg
