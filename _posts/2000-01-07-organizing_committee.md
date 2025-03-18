@@ -18,7 +18,6 @@ titleclr: wednesday
     <h4 class="title" style="color: #ffffff;">{{ person.name }}<br>
         <small class="text-muted" style="color: #337ab7;">{{ person.title }}</small>
     </h4>
-    <p class="description" style="color: #ffffff;"> {{ person.affiliation }}</p>
 </div>
 </center>
 </div>
