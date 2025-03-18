@@ -25,13 +25,10 @@ titleclr: '#428bca'
 
 <p style ="text-align: center;"> For details regarding the <span style="color:#f26c22;">MRS Hackathon</span>, please see <a href="https://sites.google.com/view/mrshackathon2024/" style="color:blue;"> here </a>.</p>
 
-<center>
-<p style ="text-align: center;  font-size:20px;">MRathon aims to bring together experts to share knowledge and collaborate on new solutions for ensuring transparency and accessibility in MRI research.</p>
- </center>
 <hr>
- <h3>A stellar list of MRI experts (displaying 2024, to be updated)</h3>
+ <h3>Speakers</h3>
 
- <p style ="text-align: center;  font-size:20px;"> Experts who specialize in implementing cutting-edge research into open-source projects will be present during the hackathon to offer valuable insights on the latest developments in the vendor-neutral ecosystem. </p>
+ <p style ="text-align: center;  font-size:20px;"> Experts who specialize in implementing cutting-edge research into open-source projects will give tutorials and thought-provoking talks to inspire us! </p>
 
 <div class="team" style="margin-top:10px;">
 <div class="row" style="justify-content:center;">
