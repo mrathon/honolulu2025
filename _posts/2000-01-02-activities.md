@@ -39,7 +39,7 @@ titleclr: '#428bca'
 <div class="col-sm-2">
 <center>
 <div class="team-player">
-    <img src="img/organization/{{ person.image }}" alt="Thumbnail Image" class="img-raised img-circle" style="width:100px;height:100px;border-radius: 50%;">
+    <img src="{{ person.image }}" alt="Thumbnail Image" class="img-raised img-circle" style="width:100px;height:100px;border-radius: 50%;">
     <h5 class="title" style="color: black;">{{ person.name }}<br>
         <small class="text-muted" style="color: black;">{{ person.affiliation }}</small>
     </h5>

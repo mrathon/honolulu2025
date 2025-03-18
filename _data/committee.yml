@@ -25,121 +25,21 @@ people:
     linkedin: #
     researchgate: #
 speakers:
-  # - name: "Adrienne Campbell-Washburn"
-  #   image:  AdrienneCampbellWashburn.jpg
-  #   affiliation: National Institutes of Health
-  #   twitter: #
-  #   linkedin: #
-  - name: "Maxim Zaitsev"
-    image:  mz.jpg
-    affiliation: University of Freiburg
-    twitter: #
-    linkedin: #
-    researchgate: #
-  - name: "Nadia Blostein"
-    image:  NadiaBlostein.jpg
-    affiliation: École Polytechnique de Montréal
-    twitter: #
-    linkedin: #
-  - name: "Michael Lustig"
-    image:  lustig.jpg
-    affiliation: UC Berkeley
-    twitter: #
-    linkedin: #    
-  - name: "Nikola Stikov"
-    image:  NikolaStikov.jpg
-    affiliation: École Polytechnique de Montréal
-  - name: "Mathieu Boudreau"
-    image:  MathieuBoudreau.jpg
-    affiliation: École Polytechnique de Montréal
-  - name: "Agah Karakuzu"
-    image:  AgahKarakuzu.jpg
-    affiliation: École Polytechnique de Montréal
-  - name: "Sophie Schauman"
-    image:  sophie.png
-    affiliation: Karolinska Institutet
-    twitter: #
-    linkedin: #
-  - name: "Rita G. Nunes"
-    image:  rn.jpg
-    affiliation: Universidade de Lisboa
-    twitter: #
-    linkedin: #
-  - name: "Tiago Fernandes"
-    image:  tiagoo.jpg
-    affiliation: Universidade de Lisboa
-    twitter: #
-    linkedin: #
-  - name: "Peder Larson"
-    image:  larson.png
-    affiliation: UCSF
-    twitter: #
-    linkedin: #
-  # - name: "Krishna Nayak"
-  #   image:  kn.jpg
-  #   affiliation: USC Viterbi School of Engineering
-  #   twitter: #
-  #   linkedin: #
-  # - name: "Jon Tamir"
-  #   image:  tamirr.jpeg
-  #   affiliation: UT Austin
-  #   twitter: #
-  #   linkedin: #
-  # - name: "Berkin Bilgic"
-  #   image:  berkin.jpeg
-  #   affiliation: MGH Harvard
-  #   twitter: #
-  #   linkedin: #
-  # - name: "Yogesh Rathi"
-  #   image:  yogesh.jpeg
-  #   affiliation: MGH Harvard
-  #   twitter: #
-  #   linkedin: #
-  # - name: "Borjan Gagoski"
-  #   image:  borjan.jpeg
-  #   affiliation: MGH Harvard
-  #   twitter: #
-  #   linkedin: #
-  # - name: "Shohei Fujita"
-  #   image:  shohei.jpeg
-  #   affiliation: MGH Harvard
-  #   twitter: #
-  #   linkedin: #
-  # - name: "Rasim Boyacioglu"
-  #   image:  rb.jpg
-  #   affiliation: Case Western Reserve University
-  #   twitter: #
-  #   linkedin: #
-  # - name: "Georg Oeltzschner"
-  #   image:  go.jpg
-  #   affiliation: Johns Hopkins Medicine
-  #   twitter: #
-  #   linkedin: #
-  # - name: "Krishna Nayak"
-  #   image:  kn.jpg
-  #   affiliation: USC Viterbi School of Engineering
-  #   twitter: #
-  #   linkedin: #
-  # - name: "Matthias Günther"
-  #   image:  mgu.jpg
-  #   affiliation: Fraunhofer Institute for Digital Medicine
-  #   twitter: #
-  #   linkedin: #    
-
-  # - name: "E. Mark Haacke"
-  #   image:  mh.png
-  #   affiliation: SpinTech MRI
-  #   twitter: #
-  #   linkedin: #
-  # - name: "Ahsan Javed"
-  #   image:  aj.jpeg
-  #   affiliation: National Institutes of Health
-  #   twitter: #
-  #   linkedin: #
-  # - name: "Andreia S.O. Gaspar"
-  #   image:  asog.jpg
-  #   affiliation: Universidade de Lisboa
-  #   twitter: #
-  #   linkedin: #
-
-
+  - name: "Dr. Francesco Santini"
+    image:  https://lh5.googleusercontent.com/52yfMkXwgzblPHCcoCKFV_TbUtCSf5cqDwtjXGWSEjH_FiGfsEvB1YUVpG6pXFpC-yYk3cK1gxg3HKbkDbTYv_QtE1lBAaVj160sR1SZmcR1Zb-Ypo7MRrJE8Sf7S5SYtw=w1280
+    affiliation: University of Basel
+  - name: "Dr. Ashley Harris"
+    image:  https://lh6.googleusercontent.com/qvLAQc_e6isnynoL5T9S09z5J6dUGJQQODkdPL7ymerW_hXR8qrG6ohiMePjMBeCeY2btS_Kj9uRFgYZ8GUOh0t1Erb1j77I2UT0Rb6kkWlKoS7JVUu2SbPuoY7Sc7Y4NQ=w1280
+    affiliation: University of Calgary
+  - name: "Dr. Ipek Özdemir"
+    image:  https://lh6.googleusercontent.com/KMkAjSeKasj_WcLrneiPOIsXSME02XPtZooJzZl0m0rSniXHQqLS0TtCK5Yn--f1pytV5PtqVdx-ycfwG54oDfXsk0sERuDn3JWR6rOcGD9p_55byeWybx_aMfsupOSrSA=w1280
+    affiliation: John Hopkins School of Medicine
+  - name: "Kay Igwe"
+    image:  https://lh4.googleusercontent.com/KleMSzQcj1Ovua5g-9CEifje00JnR9kBjl4yzbzIy4kCqMwyyuJk4rCOGBaZdxBzAJvg-Kk88a3zw9BRhonWxWOOpRinENzBlCbDhXgc4gONNK-JvNJDz986Nn1iLcYIfg=w1280
+    affiliation: Columbia University
+  - name: "John LaMaster" 
+    image:  https://lh5.googleusercontent.com/XNrAc3JCamXWhekR1oiep9D3JzJFzpwt9SXheWyDCogZjo_-V2E0zZQ67TUESd4bvw7lbXE_j8ppC7cpWVfNVdj9Wx18poCMtphm8dil3Wg3fRW9QWVvpPibDT6FSvQNpA=w1280
+    affiliation: Munich Technical University
+  - name: "Julian Merkhofer" 
+    image: https://lh3.googleusercontent.com/n_fo10dfmYJSPRhlSplmoImugW0MTyZIAWfeWZpG7R_103ZcQ5UCUiWogz3th8HJGHSXRATo1w1BwuLzKcE0MbQeMp-sqPouIm2YmuZVTGTdZlapXyQgDRBIKx1hFvxS-w=w1280
+    affiliation: Eindhoven University of Technology
